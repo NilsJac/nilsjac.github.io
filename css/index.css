@@ -1,0 +1,471 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font: 400 1em/1.38 Roboto;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  position: relative;
+  float: left;
+}
+
+.container .text {
+  color: rgb(255, 255, 255);
+}
+
+.image {
+  display: block;
+  float: left;
+  clear: both;
+  width: 164px;
+  height: auto;
+  margin-left: 43.16667%;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+}
+
+.text-2 p,
+.text-5 p,
+.text-7 p,
+.text-9 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  float: left;
+  height: 40px;
+  border-radius: 3px;
+  font-size: 1.25em;
+  font-weight: 100;
+  text-align: center;
+  color: #3ad522;
+}
+
+._button:hover {
+  color: #ffffff;
+}
+
+._container {
+  z-index: 4;
+  width: 80%;
+  height: 441px;
+  margin: 101px 0 0 10%;
+}
+
+.container-1 {
+  z-index: 0;
+  width: 100%;
+  height: 76px;
+  background-color: #000000;
+}
+
+.container-3 {
+  clear: both;
+  z-index: 6;
+  width: 80%;
+  height: 316px;
+  margin-left: 10%;
+  border-right: 2px solid rgb(255, 255, 255);
+  border-left: 2px solid rgb(255, 255, 255);
+}
+
+.container-4 {
+  z-index: 9;
+  width: 80%;
+  height: 236px;
+  margin: 138px 0 0 10%;
+  border-right: 2px solid rgb(255, 255, 255);
+  border-left: 2px solid rgb(255, 255, 255);
+}
+
+.container-5 {
+  clear: both;
+  z-index: 14;
+  width: 80%;
+  height: 236px;
+  margin: 5px 0 0 10%;
+  border-right: 2px solid rgb(255, 255, 255);
+  border-left: 2px solid rgb(255, 255, 255);
+}
+
+.text-1 {
+  width: 38.5807291666%;
+  min-height: 65px;
+  margin: 76px 0 0 49.99837%;
+  font-size: 1.875em;
+  font-weight: 100;
+}
+
+.text-2 {
+  clear: both;
+  width: 39.5833333333%;
+  height: 271px;
+  min-height: 80px;
+  margin-left: 50%;
+  font-size: 1em;
+  line-height: 0.5;
+}
+
+.text-3 {
+  position: relative;
+  clear: both;
+  z-index: 5;
+  width: 27.25%;
+  height: 71px;
+  min-height: 50px;
+  margin: -225px 0 0 16%;
+  font-size: 1.5em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-4 {
+  position: relative;
+  z-index: 7;
+  width: 80%;
+  height: 50px;
+  min-height: 50px;
+  margin: 55px 0 0 10%;
+  font-size: 1.5em;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(235, 145, 12);
+}
+
+.text-5 {
+  position: relative;
+  clear: both;
+  z-index: 8;
+  width: 80%;
+  min-height: 293px;
+  margin: -328px 0 0 10%;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-6 {
+  position: relative;
+  clear: both;
+  z-index: 10;
+  width: 80%;
+  height: 50px;
+  min-height: 50px;
+  margin: -281px 0 0 10%;
+  font-size: 1.5em;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-7 {
+  position: relative;
+  z-index: 11;
+  width: 77.4166666666%;
+  min-height: 231px;
+  margin: -231px 0 0 11.16667%;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-8 {
+  width: 80%;
+  height: 50px;
+  min-height: 50px;
+  margin: 37px 0 0 9.08073%;
+  font-size: 1.5em;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-9 {
+  position: relative;
+  clear: both;
+  z-index: 16;
+  width: 68%;
+  min-height: 231px;
+  margin: -214px 0 0 16%;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button-1 {
+  width: 13.5833333333%;
+  margin: -394px 0 0 73.375%;
+  border-right: 1px solid rgb(255, 255, 255);
+  border-left: 1px solid rgb(255, 255, 255);
+}
+
+._button-2 {
+  position: relative;
+  clear: both;
+  z-index: 1;
+  width: 11.75%;
+  margin: -57px 0 0 4.25%;
+}
+
+._button-3 {
+  position: relative;
+  z-index: 18;
+  width: 13.5833333333%;
+  margin: -57px 0 0 36.39974%;
+  border-right: 1px solid rgb(255, 255, 255);
+  border-left: 1px solid rgb(255, 255, 255);
+}
+
+._button-4 {
+  position: relative;
+  z-index: 12;
+  width: 13.5833333333%;
+  margin: -57px 0 0 56.83203%;
+  border-right: 1px solid rgb(255, 255, 255);
+  border-left: 1px solid rgb(255, 255, 255);
+}
+
+._button-5 {
+  position: relative;
+  z-index: 17;
+  width: 13.5833333333%;
+  margin: -57px 0 0 77.19922%;
+  border-right: 1px solid rgb(255, 255, 255);
+  border-left: 1px solid rgb(255, 255, 255);
+}
+
+._button-1:hover,
+._button-3:hover,
+._button-4:hover,
+._button-5:hover {
+  border-right-color: rgb(235, 145, 12);
+  border-left-color: rgb(235, 145, 12);
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: normal;
+  font-size: 1.875em;
+  font-weight: 100;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text em {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: normal;
+  font-size: 1.25em;
+  font-weight: 100;
+  text-transform: inherit;
+  text-decoration: underline;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: #3ad522;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span,
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text-2 span {
+  font-style: normal;
+  font-size: 0.875em;
+  font-weight: 100;
+  color: rgb(235, 145, 12);
+}
+
+.text-2 strong {
+  font-style: normal;
+  font-size: 0.875em;
+  font-weight: 100;
+  color: inherit;
+}
+
+.text-3 span {
+  font-style: normal;
+  font-size: inherit;
+  font-weight: 100;
+  color: inherit;
+}
+
+.text-5 span {
+  font-style: normal;
+  font-size: 1.125em;
+  font-weight: 300;
+  color: inherit;
+}
+
+.text-5 strong {
+  font-style: normal;
+  font-size: 1.125em;
+  font-weight: inherit;
+  color: #3ad522;
+}
+
+.text-6 span,
+.text-8 span {
+  font-style: inherit;
+  font-size: 0.917em;
+  font-weight: inherit;
+  color: rgb(235, 145, 12);
+}
+
+.text-7 span,
+.text-9 span {
+  font-style: inherit;
+  font-size: 1.125em;
+  font-weight: 300;
+  color: inherit;
+}
+
+.text-7 strong,
+.text-9 strong {
+  font-style: inherit;
+  font-size: 1.125em;
+  font-weight: inherit;
+  color: rgb(58, 213, 34);
+}
+
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+
+.modal {
+    display: none;
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(255,255,255); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 100%;
+    max-width: 900px;
+    background-color: rgba(0,0,0,1);
+}
+
+
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)}
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
