@@ -12,7 +12,7 @@ $(document).ready(function(){
 
                  $("#experiencebt").click(function() {
                $('html,body').animate({
-                   scrollTop: $(".text text-7").offset().top},
+                   scrollTop: $("#exp").offset().top},
                    'slow');
 });
 
